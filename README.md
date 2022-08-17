@@ -76,7 +76,5 @@
     <h3 class="headingmiddle">Thanks for visiting!</h3> 
     <h3 class="headingmiddle">Good luck with your studies!</h3>
 </div>
-            <div>
-            </div>
 </body>
 </html>
