@@ -22,8 +22,7 @@
                     <p> Are you struggling to learn English?</p>
                     <p> Do you feel like it's easy for everyone exept you?</p>
                     <p>I have a solution for you!</p>
-                </h3>
-                
+                </h3>  
         </div>
         <hr>
         <hr>
