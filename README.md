@@ -7,7 +7,6 @@
     <title>Movies</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
       <body>
       
             <div class="one">
