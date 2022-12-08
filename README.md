@@ -36,6 +36,7 @@
         </div>
         <hr>
         <hr>
+        
     <div class="movies">
         <div class="movie1">
             <a href="Friends.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Ffriends1-modified.png?v=1639175874707" alt="friends" width="200px"> </a>
