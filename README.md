@@ -7,7 +7,6 @@
     <title>Movies</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
       <body>
             <div class="one">
                 <H1 class="heading"><em>Best way to learn English</em></H1>
@@ -17,7 +16,6 @@
                     <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802" type="video/mp4">
             </video>
             </div>
-            
             <div class="one">
                 <h3 class="headingmiddle">
                     <p> Are you stressed?</p>
@@ -37,14 +35,12 @@
             <h3 class="headingmiddle">Enjoy!</h3>
         </div>
         <hr>
-        <hr>
-        
+        <hr>  
     <div class="movies">
         <div class="movie1">
             <a href="Friends.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Ffriends1-modified.png?v=1639175874707" alt="friends" width="200px"> </a>
             <h3 class="middle">Friends</h3>    
         </div>
-
         <div class="movie1">
             <a href="How I met your Mother.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Fmother-modified.png?v=1639195815921" alt="How I met your Mother" width="200px"> </a>
             <h3 class="middle">How I met your Mother</h3>    
@@ -53,12 +49,10 @@
             <a href="Sex And The City.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Fsexcity-modified.png?v=1639195934737" alt="Sex And The City" width="200px"> </a>
             <h3 class="middle">Sex And The City</h3>    
         </div>
-
         <div class="movie1">
             <a href="Suits.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Fsuits-modified.png?v=1639195970222" alt="Suits" width="200px"> </a>
             <h3 class="middle">Suits</h3>    
         </div>
-
         <div class="movie1">
             <a href="Grey's Anatomy.html" target="blank"><img src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2Fgreys-modified.png?v=1639195647643" alt="Grey's Anatomy" width="200px"> </a>
             <h3 class="middle">Grey's Anatomy</h3>    
