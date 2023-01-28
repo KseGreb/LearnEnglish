@@ -12,7 +12,7 @@
                 <H1 class="heading"><em>Best way to learn English</em></H1>
             </div>
             <div class="two">
-                <video autoplay muted playinline id="myVideo" loop>
+             <video autoplay muted playinline id="myVideo" loop>
                     <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802" type="video/mp4">
             </video>
             </div>
@@ -20,6 +20,7 @@
                 <h3 class="headingmiddle">
                     <p> Are you stressed?</p>
                     <p> Are you struggling to learn English?</p>
+          
                     <p> Do you feel like it's easy for everyone exept you?</p>
                     <p>I have a solution for you!</p>
                 </h3>  
@@ -32,6 +33,7 @@
             <p class="info">I had picked for you some of my favourite ones, the ones I started my English journey with!</p>
             <p class="info">Even if you won't understand some words or phrases it still will be fun to watch.</p>
         </div>
+          
         <div>
             <h3 class="headingmiddle">Enjoy!</h3>
         </div>
