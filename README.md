@@ -7,6 +7,7 @@
     <title>Movies</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
       <body>
             <div class="one">
                 <H1 class="heading"><em>Best way to learn English</em></H1>
@@ -25,6 +26,7 @@
                     <p>I have a solution for you!</p>
                 </h3>  
         </div>
+        
         <hr>
         <hr>
         <div class="four">
