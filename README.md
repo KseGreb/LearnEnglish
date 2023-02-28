@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
       <body>
+      
             <div class="one">
-            
                 <H1 class="heading"><em>Best way to learn English</em></H1>  
             </div>
             <div class="two">
