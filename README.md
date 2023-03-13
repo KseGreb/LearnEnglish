@@ -12,9 +12,7 @@
                 <H1 class="heading"><em>Best way to learn English</em></H1>  
             </div>
             <div class="two">
-
              <video autoplay muted playinline id="myVideo" loop>
-             
                     <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802" type="video/mp4">
             </video>
             </div>
