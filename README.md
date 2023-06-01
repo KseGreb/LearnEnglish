@@ -13,7 +13,7 @@
             </div>
             <div class="two">
              <video autoplay muted playinline id="myVideo" loop>
-                    <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802" type="video/mp4">
+                    <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802"type="video/mp4">
             </video>
             </div>
             <div class="one">
@@ -29,7 +29,6 @@
         <hr>
         <hr>
         <div class="four">
-        
             <p class="info">The easiest and fun way to learn conversational English is to watch fun movies! </p>
             <p class="info">I had picked for you some of my favourite ones, the ones I started my English journey with!</p>
             <p class="info">Even if you won't understand some words or phrases it still will be fun to watch.</p>
