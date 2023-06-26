@@ -16,6 +16,7 @@
                     <source src="https://cdn.glitch.me/609d5ce8-bb0d-4652-ada9-494a2e0f4a27%2FStudying.mp4?v=1639195951802"type="video/mp4">
             </video>
             </div>
+        
             <div class="one">
                 <h3 class="headingmiddle">
                     <p> Are you stressed?</p>
